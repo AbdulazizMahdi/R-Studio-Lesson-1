@@ -461,7 +461,10 @@ In c(1, 2, 3, 4) + c(0, 10, 1000) :
 1: No
 2: Yes
 
-Selection: 2
-What is your email address? siby.thomas@capgemini.com
-What is your assignment token? Mj94HXH2Ty2k1bjM
-Grade submission succeeded!
+Selection: 1
+| That's the answer I was looking for.
+
+| You've reached the end of this lesson! Returning to the main menu...
+
+
+
